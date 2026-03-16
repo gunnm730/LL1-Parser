@@ -233,20 +233,6 @@ This project meets the requirements of Compiler Theory Lab 2:
 
 ---
 
-## 作者 / Author
-
-- **学生 / Student**: 马子木
-- **学号 / Student ID**: B23041707
-
----
-
-## 课程信息 / Course Info
-
-- **课程 / Course**: 编译原理 / Compiler Theory
-- **实验 / Lab**: 实验二 / Lab 2
-
----
-
 ## 许可证 / License
 
 MIT License
